@@ -22,4 +22,4 @@ We will use famous MovieLens dataset, which is one of the most common datasets u
 
 # Jupyter Notebook: 
 
-Advanced Recommender Systems with Python.ipynb
+Advanced_Recommender_Systems_Python.ipynb
